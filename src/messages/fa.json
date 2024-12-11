@@ -1,0 +1,470 @@
+{
+  "Navbar": {
+    "navItems": {
+      "tech": "Tech Studio",
+      "business": "Business Factory",
+      "media": "Media Engine",
+      "intelligence": "Curium Intelligence",
+      "courses": "Courses",
+      "contact": "Contact Us",
+      "about": "About Us"
+    }
+  },
+
+  "Footer": {
+    "copyright": "Curium 2024, All rights reserved."
+  },
+
+  "HomePage": {
+    "heroSection": {
+      "title": "Explore Rare Digital Artworks from Various Artists",
+      "description": "Lorem ipsum odor amet, consectetuer adipiscing elit. Potenti lacinia tempor facilisis magnis pellentesque. Tempor dictum platea senectus maximus congue vitae amet aliquet velit."
+    },
+    "mainCard": {
+      "tech": {
+        "title": "Tech Studio",
+        "description": "By having a professional team and usingthe latest technologies, we can provide awide range of services by shortening and optimizing the processes."
+      },
+      "business": {
+        "title": "Business Factory",
+        "description": "By providing new solutions and specifyingyour road map, we will bring your businessfrom the initial point to a stage that workseven without you."
+      },
+      "media": {
+        "title": "Media Engine",
+        "description": "By using the most optimal solutions, wemake the dream of the largest amount ofcontent in the shortest time and of coursewith the highest quality a reality for you."
+      },
+      "intelligence": {
+        "title": "Curium Intelligence",
+        "description": "We organize courses so that you can learn all the topics you needto start and advance your business. Even if you still only have theidea."
+      }
+    },
+    "photosSection": {
+      "title": "We’ve Founded and Funded Businesses Coast-to-Coast and Everywhere in Between",
+      "description": "From healthcare and sales enablement platforms to supply chain and agtech software."
+    },
+    "cta": {
+      "title": "LET US HELP YOU",
+      "description": "If you have an interesting idea, but you don't have the necessaryresources to do it, the team is ready to work with you to bring youridea to fruition.",
+      "button": "Get Started"
+    }
+  },
+
+  "TechPage": {
+    "heroSection": {
+      "title": "Tech Studio",
+      "description": {
+        "first": "At OLIVE Project, we revolutionize business operations by",
+        "second": "replacingoutdated processes with agile, cutting-edge methods.",
+        "keywords": ["first", "second"]
+      }
+    },
+
+    "sloganSection": [
+      {
+        "title": "Hello world",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla fuga odit sed at. Voluptas repellendus similique sequi eum. Quibusdam dolorum minus iusto rem est aliquam incidunt dolore aut, quaerat optio!",
+        "tags": ["First", "Second", "Third"]
+      },
+      {
+        "title": "Hello world 2",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla fuga odit sed at. Voluptas repellendus similique sequi eum. Quibusdam dolorum minus iusto rem est aliquam incidunt dolore aut, quaerat optio!",
+        "tags": ["First", "Second", "Third"]
+      },
+      {
+        "title": "Hello world 3",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla fuga odit sed at. Voluptas repellendus similique sequi eum. Quibusdam dolorum minus iusto rem est aliquam incidunt dolore aut, quaerat optio!",
+        "tags": ["First", "Second", "Third"]
+      }
+    ],
+
+    "featureSection": {
+      "title": "Our Services",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam autem labore ea voluptatibus ipsum officiis et dignissimos provident quasi quia! Sint illo molestiae autem perferendis architecto, eaque ex. Rem, deserunt!",
+      "features": [
+        {
+          "title": "Increase",
+          "description": "Consectetur pariatur irure exercitation sit amet id consectetur consecteturmagna et Lorem labore qui velit."
+        },
+        {
+          "title": "Increase Services",
+          "description": "Consectetur pariatur irure exercitation sit amet id consectetur consecteturmagna et Lorem labore qui velit."
+        },
+        {
+          "title": "Increase Services",
+          "description": "Consectetur pariatur irure exercitation sit amet id consectetur consecteturmagna et Lorem labore qui velit."
+        },
+        {
+          "title": "Increase Services",
+          "description": "Consectetur pariatur irure exercitation sit amet id consectetur consecteturmagna et Lorem labore qui velit."
+        },
+        {
+          "title": "Increase Services",
+          "description": "Consectetur pariatur irure exercitation sit amet id consectetur consecteturmagna et Lorem labore qui velit."
+        },
+        {
+          "title": "Increase Services",
+          "description": "Consectetur pariatur irure exercitation sit amet id consectetur consecteturmagna et Lorem labore qui velit."
+        }
+      ]
+    },
+
+    "sliderSection": {
+      "title": "Curium Projects",
+      "projects": [
+        { "title": "Test", "description": "Company Creation from" },
+        { "title": "Curiumlabs", "description": "Company Creation from" },
+        { "title": "Test", "description": "Company Creation from" },
+        { "title": "Curiumlabs", "description": "Company Creation from" },
+        { "title": "Test", "description": "Company Creation from" },
+        { "title": "Curiumlabs", "description": "Company Creation from" },
+        { "title": "Test", "description": "Company Creation from" },
+        { "title": "Curiumlabs", "description": "Company Creation from" },
+        { "title": "Curiumlabs", "description": "Company Creation from" }
+      ]
+    },
+
+    "cta": {
+      "title": "LET US HELP YOU",
+      "description": "If you have an interesting idea, but you don't have the necessaryresources to do it, the team is ready to work with you to bring youridea to fruition.",
+      "button": "Tech Page"
+    }
+  },
+
+  "MediaPage": {
+    "heroSection": {
+      "title": "Media Engine",
+      "description": {
+        "first": "At OLIVE Project, we revolutionize business operations by",
+        "second": "replacingoutdated processes with agile, cutting-edge methods."
+      }
+    },
+
+    "sloganSection": [
+      {
+        "title": "Hello world",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla fuga odit sed at. Voluptas repellendus similique sequi eum. Quibusdam dolorum minus iusto rem est aliquam incidunt dolore aut, quaerat optio!",
+        "tags": ["First", "Second", "Third"]
+      },
+      {
+        "title": "Hello world 2",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla fuga odit sed at. Voluptas repellendus similique sequi eum. Quibusdam dolorum minus iusto rem est aliquam incidunt dolore aut, quaerat optio!",
+        "tags": ["First", "Second", "Third"]
+      },
+      {
+        "title": "Hello world 3",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla fuga odit sed at. Voluptas repellendus similique sequi eum. Quibusdam dolorum minus iusto rem est aliquam incidunt dolore aut, quaerat optio!",
+        "tags": ["First", "Second", "Third"]
+      }
+    ],
+
+    "featureSection": {
+      "title": "Our Services",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam autem labore ea voluptatibus ipsum officiis et dignissimos provident quasi quia! Sint illo molestiae autem perferendis architecto, eaque ex. Rem, deserunt!",
+      "features": [
+        {
+          "title": "Increase",
+          "description": "Consectetur pariatur irure exercitation sit amet id consectetur consecteturmagna et Lorem labore qui velit.",
+          "detailed": "Consectetur pariatur irure exercitation sit amet id consectetur consecteturmagna et Lorem labore qui velit."
+        },
+        {
+          "title": "Increase Services",
+          "description": "Consectetur pariatur irure exercitation sit amet id consectetur consecteturmagna et Lorem labore qui velit.",
+          "detailed": "Consectetur pariatur irure exercitation sit amet id consectetur consecteturmagna et Lorem labore qui velit."
+        },
+        {
+          "title": "Increase Services",
+          "description": "Consectetur pariatur irure exercitation sit amet id consectetur consecteturmagna et Lorem labore qui velit.",
+          "detailed": "Consectetur pariatur irure exercitation sit amet id consectetur consecteturmagna et Lorem labore qui velit."
+        },
+        {
+          "title": "Increase Services",
+          "description": "Consectetur pariatur irure exercitation sit amet id consectetur consecteturmagna et Lorem labore qui velit.",
+          "detailed": "Consectetur pariatur irure exercitation sit amet id consectetur consecteturmagna et Lorem labore qui velit."
+        },
+        {
+          "title": "Increase Services",
+          "description": "Consectetur pariatur irure exercitation sit amet id consectetur consecteturmagna et Lorem labore qui velit.",
+          "detailed": "Consectetur pariatur irure exercitation sit amet id consectetur consecteturmagna et Lorem labore qui velit."
+        },
+        {
+          "title": "Increase Services",
+          "description": "Consectetur pariatur irure exercitation sit amet id consectetur consecteturmagna et Lorem labore qui velit.",
+          "detailed": "Consectetur pariatur irure exercitation sit amet id consectetur consecteturmagna et Lorem labore qui velit."
+        }
+      ]
+    },
+
+    "sliderSection": {
+      "title": "Curium Projects",
+      "projects": [
+        { "title": "Test", "description": "Company Creation from" },
+        { "title": "Curiumlabs", "description": "Company Creation from" },
+        { "title": "Test", "description": "Company Creation from" },
+        { "title": "Curiumlabs", "description": "Company Creation from" },
+        { "title": "Test", "description": "Company Creation from" },
+        { "title": "Curiumlabs", "description": "Company Creation from" },
+        { "title": "Test", "description": "Company Creation from" },
+        { "title": "Curiumlabs", "description": "Company Creation from" }
+      ]
+    },
+
+    "cta": {
+      "title": "LET US HELP YOU",
+      "description": "If you have an interesting idea, but you don't have the necessaryresources to do it, the team is ready to work with you to bring youridea to fruition.",
+      "button": "MediaPage"
+    }
+  },
+
+  "BusinessPage": {
+    "heroSection": {
+      "title": "Tech Studio",
+      "description": "At OLIVE Project, we revolutionize business operations by replacingoutdated processes with agile, cutting-edge methods."
+    },
+
+    "contentSection": {
+      "title": "Hello world",
+      "description": "test",
+      "contents": [
+        {
+          "title": "Hello world",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat rerum assumenda aspernatur nisi saepe voluptate temporibus repellendus culpa, eaque omnis corrupti commodi architecto vitae perspiciatis distinctio et quo autem aliquid!"
+        },
+        {
+          "title": "Hello world",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat rerum assumenda aspernatur nisi saepe voluptate temporibus repellendus culpa, eaque omnis corrupti commodi architecto vitae perspiciatis distinctio et quo autem aliquid!"
+        },
+        {
+          "title": "Hello world",
+          "description": "test"
+        }
+      ]
+    },
+
+    "featureSection": {
+      "title": "Our Services",
+      "description": "Hello world",
+      "features": [
+        {
+          "title": "Increase",
+          "description": "Consectetur pariatur irure exercitation sit amet id consectetur consecteturmagna et Lorem labore qui velit."
+        },
+        {
+          "title": "Increase Services",
+          "description": "Consectetur pariatur irure exercitation sit amet id consectetur consecteturmagna et Lorem labore qui velit."
+        },
+        {
+          "title": "Increase Services",
+          "description": "Consectetur pariatur irure exercitation sit amet id consectetur consecteturmagna et Lorem labore qui velit."
+        },
+        {
+          "title": "Increase Services",
+          "description": "Consectetur pariatur irure exercitation sit amet id consectetur consecteturmagna et Lorem labore qui velit."
+        },
+        {
+          "title": "Increase Services",
+          "description": "Consectetur pariatur irure exercitation sit amet id consectetur consecteturmagna et Lorem labore qui velit."
+        },
+        {
+          "title": "Increase Services",
+          "description": "Consectetur pariatur irure exercitation sit amet id consectetur consecteturmagna et Lorem labore qui velit."
+        }
+      ]
+    },
+
+    "sliderSection": {
+      "title": "Projects",
+      "projects": [
+        { "title": "Test", "description": "Company Creation from" },
+        { "title": "Curiumlabs", "description": "Company Creation from" },
+        { "title": "Test", "description": "Company Creation from" },
+        { "title": "Curiumlabs", "description": "Company Creation from" },
+        { "title": "Test", "description": "Company Creation from" },
+        { "title": "Curiumlabs", "description": "Company Creation from" },
+        { "title": "Test", "description": "Company Creation from" },
+        { "title": "Curiumlabs", "description": "Company Creation from" }
+      ]
+    },
+
+    "cta": {
+      "title": "LET US HELP YOU",
+      "description": "If you have an interesting idea, but you don't have the necessaryresources to do it, the team is ready to work with you to bring youridea to fruition.",
+      "button": "Get Started"
+    }
+  },
+
+  "CuriumIntelligencePage": {
+    "heroSection": {
+      "title": "Curium Intelligence",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo, natus voluptatum. Voluptate impedit accusantium asperiores soluta dolorum nisi incidunt a, aliquid nam laudantium officia veniam ducimus?",
+      "description-1": {
+        "first": "At OLIVE Project, we revolutionize business operations by",
+        "second": "replacingoutdated processes with agile, cutting-edge methods."
+      }
+    },
+
+    "sliderSection": {
+      "title": "Curium Projects",
+      "slides": [
+        "Company Creation from",
+        "Company Creation from",
+        "Company Creation from",
+        "Company Creation from",
+        "Company Creation from",
+        "Company Creation from"
+      ]
+    },
+
+    "leftRightSection": [
+      {
+        "title": "Curium",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae ducimus voluptatum minima, blanditiis architecto reiciendis. Architecto impedit hic nobis earum vitae ab, quos libero sed illum voluptas alias tempore ut?"
+      },
+      { "title": "Curium Intelligence", "description": "Hello World 2" }
+    ],
+
+    "otherStudiosSection": {
+      "title": "Other Studios",
+      "contents": [
+        {
+          "title": "Tech Studio",
+          "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid quibusdam rem, impedit quia aperiam sed voluptatem modi! Cupiditate et dolores doloremque consequatur, quis amet explicabo. Perspiciatis minima nisi veniam quo?",
+          "tags": ["web", "mobile", "design", "ui", "ux"]
+        },
+        {
+          "title": "Business Factory",
+          "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid quibusdam rem, impedit quia aperiam sed voluptatem modi! Cupiditate et dolores doloremque consequatur, quis amet explicabo. Perspiciatis minima nisi veniam quo?",
+          "tags": ["web", "mobile"]
+        },
+        {
+          "title": "Media Engine",
+          "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid quibusdam rem, impedit quia aperiam sed voluptatem modi! Cupiditate et dolores doloremque consequatur, quis amet explicabo. Perspiciatis minima nisi veniam quo?",
+          "tags": ["web", "mobile", "design"]
+        }
+      ]
+    },
+
+    "cta": {
+      "title": "LET US HELP YOU",
+      "description": "If you have an interesting idea, but you don't have the necessaryresources to do it, the team is ready to work with you to bring youridea to fruition.",
+      "button": "Curium page"
+    }
+  },
+  "ContactUsPage": {
+    "title": "Book And Call Us",
+    "sloganSection": [
+      {
+        "title": "Call Us",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla fuga odit sed at. Voluptas repellendus similique sequi eum. Quibusdam dolorum minus iusto rem est aliquam incidunt dolore aut, quaerat optio!",
+        "buttonsLink": ["Phone", "Email", "Whatsapp"]
+      },
+      {
+        "title": "Book A Consultaition",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla fuga odit sed at. Voluptas repellendus similique sequi eum. Quibusdam dolorum minus iusto rem est aliquam incidunt dolore aut, quaerat optio!",
+        "buttonsLink": ["Get In Touch"]
+      }
+    ]
+  },
+  "AboutUsPage": {
+    "title": "About Us",
+
+    "ourStorySection": {
+      "title": "Our Story",
+      "description": {
+        "first": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, quo totam, omnis reiciendis in consectetur temporibus eaque nostrum deleniti laudantium possimus quia amet iste. Harum dolor explicabo corrupti unde nemo!",
+        "second": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, quo totam, omnis reiciendis in consectetur temporibus eaque nostrum deleniti laudantium possimus quia amet iste. Harum dolor explicabo corrupti unde nemo!"
+      },
+      "quickInfos": [
+        { "title": "Companies", "value": "40+" },
+        { "title": "Tests", "value": "90+" },
+        { "title": "Cooperations", "value": "110+" }
+      ]
+    },
+
+    "timeLine": "Time Line",
+    "otherBrands": "Other Brands",
+
+    "timeLineSection": [
+      {
+        "year": "2023",
+        "contents": [
+          {
+            "title": "Test",
+            "description": "Lorem ipsum"
+          },
+          {
+            "title": "Test",
+            "description": "Lorem ipsum dolor"
+          },
+          {
+            "title": "Test",
+            "description": "Lorem ipsum dolor sit amet"
+          }
+        ]
+      },
+      {
+        "year": "2024",
+        "contents": [
+          {
+            "title": "Test",
+            "description": "Lorem ipsum"
+          }
+        ]
+      },
+      {
+        "year": "2025",
+        "contents": [
+          {
+            "title": "Test",
+            "description": "Lorem ipsum"
+          }
+        ]
+      },
+      {
+        "year": "2026",
+        "contents": [
+          {
+            "title": "Test",
+            "description": "Lorem ipsum"
+          }
+        ]
+      },
+      {
+        "year": "2027",
+        "contents": [
+          {
+            "title": "Test",
+            "description": "Lorem ipsum"
+          },
+          {
+            "title": "Test",
+            "description": "Lorem ipsum dolor"
+          }
+        ]
+      }
+    ],
+
+    "ourTeam": {
+      "title": "Our Team",
+      "persons": [
+        {
+          "id": "user-1",
+          "name": "Hani Radman",
+          "position": "Co Founder",
+          "image": "/person.webp"
+        },
+        {
+          "id": "user-2",
+          "name": "Amir Hossein Banaei",
+          "position": "Front End Developer",
+          "image": "/hero.webp"
+        }
+      ]
+    },
+
+    "cta": {
+      "title": "LET US HELP YOU",
+      "description": "If you have an interesting idea, but you don't have the necessaryresources to do it, the team is ready to work with you to bring youridea to fruition.",
+      "button": "Get Started"
+    }
+  }
+}

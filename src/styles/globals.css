@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    scroll-behavior: smooth;
+  }
+
+  :root {
+    --black-primary: 216 11.1% 8.8%;
+    --black-secondary: 216.9, 19.1%, 26.7%;
+
+    --white-primary: 0 0% 97%;
+    --white-secondary: 0 0% 85%;
+
+    --background-primary: 0 0% 97%;
+    --background-secondary: 216 11.1% 8.8%;
+
+    --primary: 225 99% 28%;
+    --secondary: 0 0% 80%;
+    --radius: 0.5rem;
+  }
+}
+
+@layer components {
+  .side-space-style {
+    @apply px-4 md:px-side-space 2xl:px-side-space-2xl;
+  }
+  .footer-icon-style {
+    @apply fill-base-light size-4;
+  }
+  .custom-shadow-light {
+    -webkit-box-shadow: 0px 0px 28px 0px rgba(232, 232, 232, 1);
+    -moz-box-shadow: 0px 0px 28px 0px rgba(232, 232, 232, 1);
+    box-shadow: 0px 0px 28px 0px rgba(232, 232, 232, 1);
+  }
+  .custom-shadow-dark {
+    -webkit-box-shadow: 0px 0px 25px 0px rgb(104, 103, 103);
+    -moz-box-shadow: 0px 0px 25px 0px rgb(62, 59, 59);
+    box-shadow: 0px 0px px 0px rgb(68, 67, 67);
+  }
+}
